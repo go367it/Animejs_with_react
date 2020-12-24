@@ -1,0 +1,12 @@
+.section_a{
+    height: 100%;
+}
+
+.section_a .square{
+    width: 30px;
+    height:30px;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
