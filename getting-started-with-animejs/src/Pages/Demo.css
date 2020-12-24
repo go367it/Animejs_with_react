@@ -3,9 +3,10 @@
 }
 
 .section_a .square{
-    width: 30px;
-    height:30px;
-    background-color: green;
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: white;
     margin-top: 100px;
     margin-left: 300px;
     margin-bottom: 100px;
